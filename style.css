@@ -675,7 +675,7 @@ body{
       font-size: 16px;
       position: absolute;
       top: 100%;
-      right: -40%;
+      right: -100%;
       width: 200px;
       height: 46vh;
       background: #081b29;
@@ -686,6 +686,7 @@ body{
    }
 
    .heading a {
+      right: 2%;
       display: block;
       margin: 12px 0;
       padding: 0px 25px;
